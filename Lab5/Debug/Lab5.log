@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\yurik\onedrive\документы\visual studio 2017\projects\lab5\lab5\main.cpp(62): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\yurik\onedrive\документы\visual studio 2017\projects\lab5\lab5\main.cpp(65): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\yurik\onedrive\документы\visual studio 2017\projects\lab5\lab5\main.cpp(68): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab5.vcxproj -> C:\Users\yurik\OneDrive\Документы\Visual Studio 2017\Projects\Lab5\Debug\Lab5.exe
+  Lab5.vcxproj -> C:\Users\yurik\OneDrive\Документы\Visual Studio 2017\Projects\Lab5\Debug\Lab5.pdb (Partial PDB)
